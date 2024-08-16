@@ -1,0 +1,25 @@
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.logo {
+    max-width: 200px;
+    margin-bottom: 10px;
+}
+.header-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: rgb(13, 228, 228);
+}
+.quote {
+    font-size: 18px;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.day-button {
+    margin: 5px;
+}
